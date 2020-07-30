@@ -12,6 +12,10 @@ Hello World!!
 commit 3
 commit 4
 commit 5
+
 <footer>푸터 추가</footer>
 </body>
+<script>
+    console.log('hello vs -code')
+</script>
 </html>
